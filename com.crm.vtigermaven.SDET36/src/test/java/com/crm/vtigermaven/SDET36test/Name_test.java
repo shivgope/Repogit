@@ -16,4 +16,9 @@ public void address()
 System.out.println("home");	
 }
 
+@Test
+public void name3() {
+	System.out.println("name print");
+}
+
 }
