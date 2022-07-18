@@ -19,7 +19,7 @@ System.out.println("home");
 @Test
 public void name3() {
 	System.out.println("name print");
-	System.out.println("Name delete");
+	
 	
 }
 @Test
