@@ -8,6 +8,7 @@ public class Name_test {
 public void name2()
 {
 System.out.println("shiv");	
+System.out.println("shiv");
 }
 
 @Test(groups = "smoke")
