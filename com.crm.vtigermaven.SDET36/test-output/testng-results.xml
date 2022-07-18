@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="37" started-at="2022-07-14T17:24:47 IST" finished-at="2022-07-14T17:24:47 IST">
+  <suite started-at="2022-07-18T11:22:10 IST" name="Default suite" finished-at="2022-07-18T11:22:10 IST" duration-ms="61">
     <groups>
-      <group name="regression">
-        <method signature="Name_test.name2()[pri:0, instance:com.crm.vtigermaven.SDET36test.Name_test@76f2b07d]" name="name2" class="com.crm.vtigermaven.SDET36test.Name_test"/>
-      </group> <!-- regression -->
     </groups>
-    <test name="Test" duration-ms="37" started-at="2022-07-14T17:24:47 IST" finished-at="2022-07-14T17:24:47 IST">
+    <test started-at="2022-07-18T11:22:10 IST" name="Default test" finished-at="2022-07-18T11:22:10 IST" duration-ms="61">
       <class name="com.crm.vtigermaven.SDET36test.Name_test">
-        <test-method status="PASS" signature="name2()[pri:0, instance:com.crm.vtigermaven.SDET36test.Name_test@76f2b07d]" name="name2" duration-ms="6" started-at="2022-07-14T17:24:47 IST" finished-at="2022-07-14T17:24:47 IST">
+        <test-method signature="name3()[pri:0, instance:com.crm.vtigermaven.SDET36test.Name_test@649bec2e]" started-at="2022-07-18T11:22:10 IST" name="name3" finished-at="2022-07-18T11:22:10 IST" duration-ms="10" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- name2 -->
+        </test-method> <!-- name3 -->
       </class> <!-- com.crm.vtigermaven.SDET36test.Name_test -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

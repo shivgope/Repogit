@@ -20,6 +20,14 @@ System.out.println("home");
 public void name3() {
 	System.out.println("name print");
 	System.out.println("Name delete");
+	
 }
+@Test
+public void name4() {
+	System.out.println("hii");
+	System.out.println("shivu");
+	System.out.println("hii+hello");
 
+
+}
 }
