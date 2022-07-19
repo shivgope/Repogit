@@ -15,7 +15,8 @@ System.out.println("shiv");
 @Test(groups = "smoke")
 public void address()
 {
-System.out.println("home");	
+System.out.println("home");
+	System.out.println("home amit");
 }
 
 @Test
