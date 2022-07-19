@@ -15,6 +15,11 @@ public void address()
 	System.out.println("bye");
 	System.out.println("bye bye");
 	System.out.println("bye bye");
+	String browser=System.getProperty("BROWSER");
+System.out.println(browser);
+String url=System.getProperty("URL");
+System.out.println(url);
+
 	
 }
 
