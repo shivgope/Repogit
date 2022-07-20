@@ -7,7 +7,9 @@ public class Address_test {
 @Test(groups = "smoke")
 public void name()
 {
-System.out.println("hii");	
+System.out.println("hii");
+	System.out.println("hii");
+	
 }
 @Test(groups = "smoke")
 public void address()
